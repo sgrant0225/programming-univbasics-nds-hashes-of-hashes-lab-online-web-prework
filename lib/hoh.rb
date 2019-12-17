@@ -46,8 +46,7 @@ new_hash = {
             :label => "Genus",
             :sub_category => {
               :label => "Species",
-              :sub_category => { nil
-              }
+              :sub_category => {}
             }
           }
         }
